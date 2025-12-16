@@ -3,7 +3,7 @@ import { account, databases } from './appwrite'
 
 // 数据库和表配置
 const DATABASE_ID = '69411cc40015de9bf700'
-const TABLE_ID = '69411cc600041a9ec5fd'
+const TABLE_ID = '69411f57000c9146b0a9'
 
 function App() {
   const [user, setUser] = useState(null)
